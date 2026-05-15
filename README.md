@@ -1,8 +1,8 @@
 # Simulation Code and Results for Leave-One-Out Testing of Node-Level Differences in Gaussian Graphical Models
 
 ## Authors
-Davide Benussi\* 
-Ester Alongi 
+Davide Benussi\*,
+Ester Alongi, and 
 Erika Banzato 
 
 \*Corresponding author 
