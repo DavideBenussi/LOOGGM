@@ -13,4 +13,4 @@ E-mail: davide.benussi@phd.unipd.it
 ---
 
 This repository contains the simulation code and empirical results accompanying the manuscript:
-**Leave-one-out testing of node-level differences in Gaussian graphical models**
+**"Leave-one-out testing of node-level differences in Gaussian graphical models"**
