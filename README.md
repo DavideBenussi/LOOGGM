@@ -1,9 +1,11 @@
-# Simulation Code and Results for Leave-One-Out Testing of Node-Level Differences in Gaussian Graphical Models
+# Simulation code and results for: "Leave-one-out testing of node-level differences in Gaussian graphical models"
 
 ## Authors
 Davide Benussi\*,
-Ester Alongi, and 
+Ester Alongi and 
 Erika Banzato 
+
+Department of Statistical Sciences, University of Padova, Italy
 
 \*Corresponding author 
 E-mail: davide.benussi@phd.unipd.it 
@@ -11,4 +13,4 @@ E-mail: davide.benussi@phd.unipd.it
 ---
 
 This repository contains the simulation code and empirical results accompanying the manuscript:
-**Leave-One-Out Testing of Node-Level Differences in Gaussian Graphical Models**
+**Leave-one-out testing of node-level differences in Gaussian graphical models**
