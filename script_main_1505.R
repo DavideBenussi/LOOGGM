@@ -564,7 +564,7 @@ check_delta_edge <- function(q = 8, rho = 0.4, A = NULL,
 setwd("~/LOOnodeID-070526")
 
 # ------------------------------------------------------------
-# Common base configuration for old node-change scenarios
+# Common base configuration for node-change scenarios
 # ------------------------------------------------------------
 base_cfg <- list(
   mode = "node",
